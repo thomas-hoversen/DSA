@@ -1,0 +1,2 @@
+## Data Structures and Algorithms
+This repository holds project code from a professional certificate I earned through EdX and Georgia Tech online. The verified credential can be found here: https://credentials.edx.org/credentials/66c9e24f19264a9baf01b431728d19af/
